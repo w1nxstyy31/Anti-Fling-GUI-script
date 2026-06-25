@@ -10,7 +10,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/w1nxstyy31/Anti-Fling
 loadstring(game:HttpGet('https://raw.githubusercontent.com/w1nxstyy31/Anti-Fling-GUI-script/refs/heads/main/Light.lua'))()
 ```
 
-# Anti-Fling-GUI-script
+## Anti-Fling-GUI-script
 Всем привет! Для тех, кто из России - пролистайте ниже.
 
 # ENG
