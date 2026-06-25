@@ -1,3 +1,14 @@
+# Silent
+
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/w1nxstyy31/Anti-Fling-GUI-script/refs/heads/main/Silent.lua'))()
+```
+
+
+
+
+
+
 # Anti-Fling-GUI-script
 Всем привет! Для тех, кто из России - пролистайте ниже.
 
